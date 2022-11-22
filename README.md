@@ -1,2 +1,2 @@
-# Route_Recommendation
-Route recommendation system using traffic prediction
+# Route_Optimization
+Route optimization system which predicts traffic using LightGBM and optimizes using Genetic Algorithm
